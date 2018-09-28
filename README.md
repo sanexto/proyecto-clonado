@@ -4,6 +4,8 @@ La **memoria de acceso aleatorio** (*Random Access Memory*, **RAM**) se utiliza 
 
 Se denominan «de acceso aleatorio» porque se puede leer o escribir en una posición de memoria con un tiempo de espera igual para cualquier posición, no siendo necesario seguir un orden para acceder (acceso secuencial) a la información de la manera más rápida posible.
 
+Durante el encendido de la computadora, la rutina [POST](https://es.wikipedia.org/wiki/POST) verifica que los módulos de RAM estén conectados de manera correcta. En el caso que no existan o no se detecten los módulos, la mayoría de tarjetas madres emiten una serie de sonidos que indican la ausencia de memoria principal. Terminado ese proceso, la memoria BIOS puede realizar un test básico sobre la memoria RAM indicando fallos mayores en la misma.
+
 ## Tipos de RAM
 
 Las dos formas principales de RAM moderna son:
