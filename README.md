@@ -10,6 +10,8 @@ Durante el encendido de la computadora, la rutina [POST](https://es.wikipedia.or
 
 Uno de los primeros tipos de memoria RAM fue la memoria de núcleo magnético, desarrollada entre 1949 y 1952 y usada en muchos computadores hasta el desarrollo de circuitos integrados a finales de los años 60 y principios de los 70. Esa memoria requería que cada bit estuviera almacenado en un toroide de material ferromagnético de algunos milímetros de diámetro, lo que resultaba en dispositivos con una capacidad de memoria muy pequeña. Antes que eso, las computadoras usaban relés y líneas de retardo de varios tipos construidas para implementar las funciones de memoria principal con o sin acceso aleatorio.
 
+En 1969 fueron lanzadas una de las primeras memorias RAM basadas en semiconductores de silicio por parte de Intel con el integrado 3101 de 64 bits de memoria y para el siguiente año se presentó una memoria DRAM de 1024 bytes, referencia 1103 que se constituyó en un hito, ya que fue la primera en ser comercializada con éxito, lo que significó el principio del fin para las memorias de núcleo magnético. En comparación con los integrados de memoria DRAM actuales, la 1103 es primitiva en varios aspectos, pero tenía un desempeño mayor que la memoria de núcleos.
+
 ## Tipos de RAM
 
 Las dos formas principales de RAM moderna son:
