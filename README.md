@@ -6,6 +6,10 @@ Se denominan «de acceso aleatorio» porque se puede leer o escribir en una posi
 
 Durante el encendido de la computadora, la rutina [POST](https://es.wikipedia.org/wiki/POST) verifica que los módulos de RAM estén conectados de manera correcta. En el caso que no existan o no se detecten los módulos, la mayoría de tarjetas madres emiten una serie de sonidos que indican la ausencia de memoria principal. Terminado ese proceso, la memoria BIOS puede realizar un test básico sobre la memoria RAM indicando fallos mayores en la misma.
 
+## Historia
+
+En 1969 fueron lanzadas una de las primeras memorias RAM basadas en semiconductores de silicio por parte de Intel con el integrado 3101 de 64 bits de memoria y para el siguiente año se presentó una memoria DRAM de 1024 bytes, referencia 1103 que se constituyó en un hito, ya que fue la primera en ser comercializada con éxito, lo que significó el principio del fin para las memorias de núcleo magnético. En comparación con los integrados de memoria DRAM actuales, la 1103 es primitiva en varios aspectos, pero tenía un desempeño mayor que la memoria de núcleos.
+
 ## Tipos de RAM
 
 Las dos formas principales de RAM moderna son:
